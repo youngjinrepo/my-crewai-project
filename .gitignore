@@ -6,3 +6,12 @@ venv/
 resume.txt
 job_requirements.txt
 privacy/
+outputs/
+.crewai_state/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
